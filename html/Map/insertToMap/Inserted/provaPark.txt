@@ -1,0 +1,29 @@
+{
+
+   "type": "FeatureCollection",
+
+   "features": [
+
+  {
+
+    "type": "Feature",
+
+    "geometry": {
+
+       "type": "Point",
+
+       "coordinates":  [ 11.327679, 44.505801 ]
+
+    },
+
+    "properties": {
+
+    "Nome":"Prova"
+
+    }
+
+  }
+
+]
+
+}

@@ -1,0 +1,8 @@
+[OK]    FILE JSON!   ----> manca solo tripBike
+?)  Chiudi modal sia con x che cliccando fuori (per tutte)
+[OK]    Variabili di sessione per evitare attorcigliamenti nelle pagine
+-Elimina bici nella vecchia posizione e aggiungila alla nuova
+-Modifica di nuovo le posizioni dell'utente all'atto dello sblocco e del parking
+- Troppi id quando aggiorna le posizioni!!!!
+- Posizione durante il percorso aggiornata dall'utente (invia al db)
+-Problema: puoi parcheggiare ovunque
